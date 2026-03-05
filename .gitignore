@@ -1,0 +1,11 @@
+# Java ignores
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Maven
+**/target/
+**/pom.xml~
